@@ -1,57 +1,83 @@
-<!-- Add Hacktoberfest 2023 Badge -->
-<img src="https://img.shields.io/badge/Hacktoberfest-2023-blueviolet" alt="Hacktoberfest 2023" />
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/241765453-85cb9521-97c0-4a65-9358-7db8099fac7f.gif" align="center" style="width: 100%" />
+</div>  
+  
 
-<!-- Profile Header -->
-# Hi there 👋
-<img src="URL_TO_YOUR_GIF" alt="Starting GIF" width="300px" height="200px" />
+### <div align="center">I'm Indu, computer science sophomore 🌱</div>  
+  
 
-<!-- Introduction -->
-<h1 align="center">Hi 👋, I'm Indu (Kosuri Lakshmi Indu)</h1>
-<h3 align="center">Machine Learning Enthusiast</h3>
+- 🔭 I’m currently learning **Full Stack Development**  
+  
 
-<!-- Profile Views -->
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kosuri-indu&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /> </p>
+- 📩 Contact Me : **kosurilindu@gmail.com**  
+  
 
-<!-- GitHub Trophies -->
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kosuri-indu" alt="GitHub Trophies" /></a> </p>
+- ❓ Ask me about **Machine Learning**  
+  
 
-<!-- Current Learnings -->
-- 🌱 I’m currently learning **Machine Learning, Javascript**
+- ⚡ Fun fact:  I have mastered the art of daydreaming with my eyes open 😅  
+  
 
-<!-- Medium Articles -->
-- 📝 I regularly write articles on [Medium](https://medium.com/@kosurilindu)
+<br/>  
 
-<!-- Contact Info -->
-- 📫 How to reach me: [kosurilindu@gmail.com](mailto:kosurilindu@gmail.com)
 
-<!-- Fun Fact -->
-- ⚡ Fun fact: **:)**
+## My Skill Set  
+<table><tr><td valign="top" width="33%">
 
-<!-- Blogs Section -->
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+<div align="center">  
+<a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>  
+<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
+<a href="https://www.blender.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/blender_community_badge_white.svg" alt="Blender" height="50" /></a>  
+<a href="https://www.tensorflow.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tensorflow-icon.svg" alt="TensorFlow" height="50" /></a>  
+<a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" /></a>  
+<a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>  
+</div>
 
-<!-- Social Links -->
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://linkedin.com/in/kosuri-indu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-  <a href="https://kaggle.com/lakshmiindukosuri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle" height="30" width="40" /></a>
-  <a href="https://medium.com/@kosurilindu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="Medium" height="30" width="40" /></a>
-  <a href="https://www.hackerrank.com/kosurilindu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" width="40" /></a>
-  <a href="https://www.leetcode.com/gizmoii18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" /></a>
-</p>
+</td><td valign="top" width="33%">
 
-<!-- Languages and Tools -->
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/></a>
-  <!-- Add more tools and languages as needed -->
-</p>
+<div align="center">  
+<a href="https://pytorch.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/pytorch-icon.svg" alt="pytorch" height="50" /></a>  
+<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
+<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  
+<a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a>  
+<a href="https://www.cprogramming.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" /></a>  
+<a href="https://www.haskell.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/haskell.png" alt="Haskell" height="50" /></a>  
+</div>
 
-<!-- GitHub Stats -->
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kosuri-indu&show_icons=true&locale=en&layout=compact" alt="Top Languages" /></p>
+</td><td valign="top" width="33%">
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kosuri-indu&show_icons=true&locale=en" alt="GitHub Stats" /></p>
+<div align="center">  
+<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
+<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
+<a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="50" /></a>  
+<a href="https://about.gitlab.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gitlab.svg" alt="GitLab" height="50" /></a>  
+<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
+<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
+</div>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kosuri-indu&" alt="GitHub Streak Stats" /></p>
+</td></tr></table>  
+
+<br/>  
+
+
+## Connect with me  
+<div align="center">
+  <a href="https://github.com/kosuri-indu" target="_blank">
+  <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+  </a>
+  <a href="https://linkedin.com/in/kosuri-indu" target="_blank">
+  <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+  </a>
+  <a href="https://medium.com/@kosurilindu" target="_blank">
+  <img src=https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white alt=medium style="margin-bottom: 5px;" />
+  </a>  
+</div>  
+  
+
+<br/>  
+
+## Hacktoberfest 2023
+
+[![An image of @kosuriindu's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/kosuriindu)](https://holopin.io/@kosuriindu)
+
+<br />
