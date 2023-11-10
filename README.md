@@ -16,10 +16,23 @@
   
 
 - ⚡ Fun fact:  I have mastered the art of daydreaming with my eyes open 😅  
-  
 
 <br/>  
 
+## Connect with me  
+<div align="center">
+  <a href="https://github.com/kosuri-indu" target="_blank">
+  <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+  </a>
+  <a href="https://linkedin.com/in/kosuri-indu" target="_blank">
+  <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+  </a>
+  <a href="https://medium.com/@kosurilindu" target="_blank">
+  <img src=https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white alt=medium style="margin-bottom: 5px;" />
+  </a>  
+</div>  
+  
+<br/>  
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
@@ -59,25 +72,9 @@
 
 <br/>  
 
-
-## Connect with me  
-<div align="center">
-  <a href="https://github.com/kosuri-indu" target="_blank">
-  <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-  </a>
-  <a href="https://linkedin.com/in/kosuri-indu" target="_blank">
-  <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-  </a>
-  <a href="https://medium.com/@kosurilindu" target="_blank">
-  <img src=https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white alt=medium style="margin-bottom: 5px;" />
-  </a>  
-</div>  
-  
-
-<br/>  
-
 ## Hacktoberfest 2023
 
 [![An image of @kosuriindu's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/kosuriindu)](https://holopin.io/@kosuriindu)
 
+<br />
 <br />
