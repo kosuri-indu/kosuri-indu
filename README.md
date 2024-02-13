@@ -15,7 +15,7 @@
 - ❓ Ask me about **Machine Learning**  
   
 
-- ⚡ Fun fact:  I have mastered the art of daydreaming with my eyes open 😅  
+- ⚡ Fun fact:  Always LOLLLing 
 
 <br/>  
 
