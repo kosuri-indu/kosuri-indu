@@ -14,7 +14,7 @@
 ### - ❄️ Ask me about **Machine Learning**  
   
 
-### - ❄️ Fun fact:  Always delulu
+### - ❄️ Fun fact:  Always delulu 😉
 
 <br/>  
 
