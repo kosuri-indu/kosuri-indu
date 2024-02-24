@@ -5,16 +5,16 @@
 ### <div align="center">I'm Indu, computer science sophomore 🌱</div>  
   
 
-- 🔭 I’m currently learning **Full Stack Development**  
+### ❄️ I’m currently learning **Full Stack Development**  
   
 
-- 📩 Contact Me : **kosurilindu@gmail.com**  
+### ❄️ Contact Me : **kosurilindu@gmail.com**  
   
 
-- ❓ Ask me about **Machine Learning**  
+### ❄️ Ask me about **Machine Learning**  
   
 
-- ⚡ Fun fact:  Always delulu
+### ❄️ Fun fact:  Always delulu
 
 <br/>  
 
