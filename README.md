@@ -8,13 +8,15 @@
 
 <br/>
 
-## Hey there! I'm Indu, a computer science sophomore 🌱
+<div align="center">
+  <h2>Hey there! I'm Indu, a computer science sophomore 🌱</h2>  
+</div>
 
-📚 I’m currently learning: Full Stack Development, Machine Learning
+### 📚 I’m currently learning: Full Stack Development, Machine Learning
 
-📫 Contact Me: Email: kosurilindu@gmail.com
+### 📫 Contact Me: Email: kosurilindu@gmail.com
 
-💡 Fun Fact: Always delulu 😉
+### 💡 Fun Fact: Always delulu 😉
 
 <br/>
 
