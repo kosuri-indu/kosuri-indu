@@ -1,5 +1,6 @@
 <div align="center">
   <h1>🌟 Welcome to my GitHub Profile! 🌟</h1>
+    <h2>Hey there! I'm Indu, a computer science sophomore 🌱</h2>  
 </div>
 
 <div align="center">
@@ -8,13 +9,9 @@
 
 <br/>
 
-<div align="center">
-  <h2>Hey there! I'm Indu, a computer science sophomore 🌱</h2>  
-</div>
-
 ### 📚 I’m currently learning: Full Stack Development, Machine Learning
 
-### 📫 Contact Me: Email: kosurilindu@gmail.com
+### 📫 Contact Me: kosurilindu@gmail.com
 
 ### 💡 Fun Fact: Always delulu 😉
 
