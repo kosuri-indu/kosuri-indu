@@ -8,7 +8,6 @@
   <h2>Hey there! I'm Induuuu 🍫</h2>
 </div>
 
-
 ### 📌 I’m currently learning: Full Stack Development
 
 ### 📌 Ask me anything related to Python
@@ -16,8 +15,6 @@
 ### 📌 Contact Me: kosurilindu@gmail.com
 
 ### 📌 Fun Fact: Always delulu 🍫
-
-<br/>
 
 ## Skill Set
 
@@ -52,15 +49,11 @@
       </div>
       </td>
   </tr>
-</table> 
-
-<br/>
+</table>
 
 ## Hacktoberfest 2023
 
 [![An image of @kosuriindu's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/kosuriindu)](https://holopin.io/@kosuriindu)
-
-<br/>
 
 ## Connect with me 
 
@@ -76,4 +69,5 @@
  </a> 
 </div> 
 
+<br/>
 <br/>
