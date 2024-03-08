@@ -1,8 +1,6 @@
 <div align="center">
-  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7d484dc9-68a9-4ee6-a767-aea59035c12d" width="800">
+  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7d484dc9-68a9-4ee6-a767-aea59035c12d" width="900">
 </div>
-
-<br/>
 
 <div align="center">
   <h2>Hey there! I'm Induuuu 🍫</h2>
@@ -59,7 +57,6 @@
 
 [![An image of @kosuriindu's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/kosuriindu)](https://holopin.io/@kosuriindu)
 
-<br/>
 
 ## Connect with me 
 
