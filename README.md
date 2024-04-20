@@ -1,6 +1,35 @@
-<div align="center">
+<!-- <div align="center">
   <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7d484dc9-68a9-4ee6-a767-aea59035c12d" width="800">
-</div>
+</div> -->
+
+```bash
+const aboutMe = {
+  name: "Indu",
+  languages: ["hin_IN", "eng_US", "tel_IN", "kor_KR"],
+  learning: "AI",
+  degree: {
+    course: "B.Tech in Computer Science",
+    ongoing: true,
+  },
+  links: [
+    "https://linktr.ee/kosuri_indu",
+    "https://www.linkedin.com/in/kosuri-indu/",
+    "https://github.com/kosuri-indu",
+  ],
+
+  sayHi() {
+    return `Hey there! I'm ${this.name}. Thanks for stopping by.`;
+  },
+
+  getFutureGoal() {
+    return `Future Goal: Learn more about AI`;
+  },
+
+  funFact() {
+    return `Fun Fact: I can speak ${this.languages.length} languages!`;
+  }
+};
+```
 
 <div align="center">
   <h2>Hey there! I'm Induuuu 🍫</h2>
