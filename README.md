@@ -1,4 +1,4 @@
-```bash
+```javascript
 
 // 🌟 Welcome to My Profile 🌟
 
@@ -17,15 +17,15 @@ const aboutMe = {
   ],
 
   sayHi() {
-    return `Hey there! I'm ${this.name}. Welcome to my profile. 😊`;
+    console.log(`Hey there! I'm ${this.name}. Welcome to my profile. 😊`);
   },
 
   getFutureGoal() {
-    return `Future Goal: Delve deeper into the realm of AI and machine learning. 🧠`;
+    console.log(`Future Goal: Delve deeper into the realm of AI and machine learning. 🧠`);
   },
 
   funFact() {
-    return `Fun Fact: I can fluently speak ${this.languages.length} languages! 🌍🗣️`;
+    console.log(`Fun Fact: I can fluently speak ${this.languages.length} languages! 🌍🗣️`);
   }
 };
 
