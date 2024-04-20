@@ -1,47 +1,43 @@
-<!-- <div align="center">
-  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7d484dc9-68a9-4ee6-a767-aea59035c12d" width="800">
-</div> -->
-
 ```bash
+
+// 🌟 Welcome to My Profile 🌟
+
 const aboutMe = {
-  name: "Indu",
+  name: "Kosuri Indu",
   languages: ["hin_IN", "eng_US", "tel_IN", "kor_KR"],
   learning: "AI",
   degree: {
     course: "B.Tech in Computer Science",
-    ongoing: true,
+    ongoing: true
   },
   links: [
-    "https://linktr.ee/kosuri_indu",
-    "https://www.linkedin.com/in/kosuri-indu/",
-    "https://github.com/kosuri-indu",
+    "🔗 Portfolio: https://linktr.ee/kosuri_indu",
+    "👩‍💼 LinkedIn: https://www.linkedin.com/in/kosuri-indu",
+    "👩‍💻 GitHub: https://github.com/kosuri-indu"
   ],
 
   sayHi() {
-    return `Hey there! I'm ${this.name}. Thanks for stopping by.`;
+    return `Hey there! I'm ${this.name}. Welcome to my profile. 😊`;
   },
 
   getFutureGoal() {
-    return `Future Goal: Learn more about AI`;
+    return `Future Goal: Delve deeper into the realm of AI and machine learning. 🧠`;
   },
 
   funFact() {
-    return `Fun Fact: I can speak ${this.languages.length} languages!`;
+    return `Fun Fact: I can fluently speak ${this.languages.length} languages! 🌍🗣️`;
   }
 };
+
 ```
 
-<div align="center">
-  <h2>Hey there! I'm Induuuu 🍫</h2>
-</div>
+### 💭 I’m currently learning: AI/ML
 
-### 📌 I’m currently learning: Full Stack Development
+### 💭 Ask me anything related to Python
 
-### 📌 Ask me anything related to Python
+### 💭 Contact Me: kosurilindu@gmail.com
 
-### 📌 Contact Me: kosurilindu@gmail.com
-
-### 📌 Fun Fact: Always delulu 🍫
+### 💭 Fun Fact: I can speak 4 languages :)
 
 <br/>
 
