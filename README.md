@@ -11,6 +11,7 @@ const aboutMe = {
     ongoing: true
   },
   links: [
+    "📩 Email: kosurilindu@gmail.com",
     "🔗 Portfolio: https://linktr.ee/kosuri_indu",
     "👩‍💼 LinkedIn: https://www.linkedin.com/in/kosuri-indu",
     "👩‍💻 GitHub: https://github.com/kosuri-indu"
@@ -26,20 +27,14 @@ const aboutMe = {
 
   funFact() {
     console.log(`Fun Fact: I can fluently speak ${this.languages.length} languages! 🌍🗣️`);
+  },
+
+  askMe(){
+    console.log(`Ask me anything regarding Python (.py) 🐍`);
   }
 };
 
 ```
-
-### 💭 I’m currently learning: AI/ML
-
-### 💭 Ask me anything related to Python
-
-### 💭 Contact Me: kosurilindu@gmail.com
-
-### 💭 Fun Fact: I can speak 4 languages :)
-
-<br/>
 
 ## Skill Set
 
@@ -81,8 +76,6 @@ const aboutMe = {
       </td>
   </tr>
 </table>
-
-<br/>
 
 ## Hacktoberfest 2023
 
