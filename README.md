@@ -28,10 +28,6 @@ const aboutMe = {
   funFact() {
     console.log(`Fun Fact: I can fluently speak ${this.languages.length} languages! 🌍🗣️`);
   },
-
-  askMe(){
-    console.log(`Ask me anything regarding Python (.py) 🐍`);
-  }
 };
 
 ```
