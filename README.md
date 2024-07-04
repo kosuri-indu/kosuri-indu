@@ -7,7 +7,7 @@ const aboutMe = {
   languages: ["hin_IN", "eng_US", "tel_IN", "kor_KR"],
   learning: "AI",
   degree: {
-    course: "B.Tech in Computer Science",
+    course: "B.Tech in Computer Science(AIML)",
     ongoing: true
   },
   links: [
