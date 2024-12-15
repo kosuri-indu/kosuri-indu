@@ -5,7 +5,7 @@
 class AboutMe {
   String name = "Kosuri Indu";
   List<String> languages = ["hin_IN", "eng_US", "tel_IN", "kor_KR"];
-  String learning = "AI";
+  String learning = "AI and Flutter Development";
   Map<String, dynamic> degree = {
     "course": "B.Tech in Computer Science(AIML)",
     "ongoing": true,
@@ -18,16 +18,15 @@ class AboutMe {
   ];
 
   void sayHi() {
-    print("Hey there! I'm $name. Welcome to my profile. 😊");
+  print("🙏 Namaste! I'm $name. Thrilled to have you visit my profile!");
   }
-
+  
   void getFutureGoal() {
-    print(
-        "Future Goal: Delve deeper into the realm of AI and machine learning. 🧠");
+    print("To explore the wonders of life while finding my passion.");
   }
-
+  
   void funFact() {
-    print("Fun Fact: I can fluently speak ${languages.length} languages! 🌍🗣️");
+    print("I enjoy good humor, even if I'm not the funniest!");
   }
 }
 
