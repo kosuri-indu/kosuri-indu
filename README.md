@@ -10,12 +10,6 @@ class AboutMe {
     "course": "B.Tech in Computer Science(AIML)",
     "ongoing": true,
   };
-  List<String> links = [
-    "📩 Email: kosurilindu@gmail.com",
-    "🔗 Portfolio: https://linktr.ee/kosuri_indu",
-    "👩‍💼 LinkedIn: https://www.linkedin.com/in/kosuri-indu",
-    "👩‍💻 GitHub: https://github.com/kosuri-indu",
-  ];
 
   void sayHi() {
   print("🙏 Namaste! I'm $name. Thrilled to have you visit my profile!");
