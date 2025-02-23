@@ -12,15 +12,15 @@ class AboutMe {
   };
 
   void sayHi() {
-  print("🙏 Namaste! I'm $name. Thrilled to have you visit my profile!");
+  print("🙏 namaste! I'm $name. nice to have you visit my profile!");
   }
   
   void getFutureGoal() {
-    print("To explore the wonders of life while finding my passion.");
+    print("to explore life while finding my passion.");
   }
   
   void funFact() {
-    print("I enjoy good humor, even if I'm not the funniest!");
+    print("i enjoy good humor, even if I'm not the funniest!");
   }
 }
 
