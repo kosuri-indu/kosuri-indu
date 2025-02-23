@@ -5,7 +5,7 @@
 class AboutMe {
   String name = "Kosuri Indu";
   List<String> languages = ["hin_IN", "eng_US", "tel_IN", "kor_KR"];
-  String learning = "AI and Flutter Development";
+  String learning = "AI";
   Map<String, dynamic> degree = {
     "course": "B.Tech in Computer Science(AIML)",
     "ongoing": true,
