@@ -1,0 +1,11 @@
+# .github/workflows/heartbeat.yml
+on:
+  schedule:
+    - cron: "0 */6 * * *"  # every 6 hours
+  workflow_dispatch:
+
+jobs:
+  baby-build:
+    runs-on: ubuntu-latest
+    steps:
+      - run: echo "Workflow ran at $(date)"
