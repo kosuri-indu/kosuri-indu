@@ -30,6 +30,54 @@ end
 | **GirlScript Summer of Code 2024** | <img style="width:100%;" alt="gssoc-2024" src="https://github.com/user-attachments/assets/728910fd-fce8-4e59-9d40-6cfa89e1e0b0" /> |
 | **Hacktoberfest 2023** | <a href="https://holopin.io/@kosuriindu"><img style="width:100%;" alt="hacktoberfest-2023" src="https://holopin.me/kosuriindu" /></a> |
 
+## Skill Set 
+
+<table style="width:100%; table-layout: fixed;">
+  <tr>
+    <!-- Column 1 -->
+    <td valign="top" width="33%">
+      <div align="center">
+        <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px; height:70px;" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" /></a>  
+        <a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px; height:70px;" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" /></a>  
+        <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px; height:70px;" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" /></a>  
+        <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px; height:70px;" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" /></a>  
+        <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px; height:70px;" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" /></a>  
+        <a href="https://www.docker.com/" target="_blank"><img style="margin: 10px; height:70px;" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" /></a>  
+        <a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px; height:70px;" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" /></a> 
+        <a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px; height:70px;" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" /></a>  
+        <a href="https://pytorch.org/" target="_blank"><img style="margin: 10px; height:70px;" src="https://profilinator.rishav.dev/skills-assets/pytorch-icon.svg" alt="pytorch" /></a>   
+      </div>
+    </td>
+    <td valign="top" width="33%">
+      <div align="center">
+        <a href="https://www.linux.org/" target="_blank"><img style="margin: 10px; height:70px;" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" /></a>  
+        <a href="https://flutter.dev/" target="_blank"><img style="margin: 10px; height:70px;" src="https://profilinator.rishav.dev/skills-assets/flutterio-icon.svg" alt="Flutter" /></a>  
+        <a href="https://www.figma.com/" target="_blank"><img style="margin: 10px; height:70px;" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" /></a>  
+        <a href="https://firebase.google.com/" target="_blank"><img style="margin: 10px; height:70px;" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" /></a>  
+        <a href="https://about.gitlab.com/" target="_blank"><img style="margin: 10px; height:70px;" src="https://profilinator.rishav.dev/skills-assets/gitlab.svg" alt="GitLab" /></a>  
+        <a href="https://mui.com/" target="_blank"><img style="margin: 10px; height:70px;" src="https://profilinator.rishav.dev/skills-assets/mui.png" alt="Material UI" /></a>  
+        <a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 10px; height:70px;" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" /></a>  
+        <a href="https://www.latex-project.org/" target="_blank"><img style="margin: 10px; height:70px;" src="https://profilinator.rishav.dev/skills-assets/latex.png" alt="LaTeX" /></a>  
+        <a href="https://www.python.org/" target="_blank"><img style="margin: 10px; height:70px;" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" /></a>  
+      </div>
+    </td>
+    <!-- Column 3 -->
+    <td valign="top" width="33%">
+      <div align="center">
+        <a href="https://www.haskell.org/" target="_blank"><img style="margin: 10px; height:70px;" src="https://profilinator.rishav.dev/skills-assets/haskell.png" alt="Haskell" /></a>  
+        <a href="https://github.com/" target="_blank"><img style="margin: 10px; height:70px;" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" /></a>  
+        <a href="https://opencv.org/" target="_blank"><img style="margin: 10px; height:70px;" src="https://profilinator.rishav.dev/skills-assets/opencv-icon.svg" alt="OpenCV" /></a>  
+        <a href="https://dart.dev/" target="_blank"><img style="margin: 10px; height:70px;" src="https://profilinator.rishav.dev/skills-assets/dartlang-icon.svg" alt="Dart" /></a>  
+        <a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px; height:70px;" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" /></a>  
+        <a href="https://www.cprogramming.com/" target="_blank"><img style="margin: 10px; height:70px;" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" /></a>  
+        <a href="https://www.java.com/" target="_blank"><img style="margin: 10px; height:70px;" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" /></a>  
+        <a href="https://nodejs.org/" target="_blank"><img style="margin: 10px; height:70px;" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" /></a>  
+        <a href="https://flask.palletsprojects.com/" target="_blank"><img style="margin: 10px; height:70px;" src="https://profilinator.rishav.dev/skills-assets/flask.png" alt="Flask" /></a>  
+        <a href="https://docs.microsoft.com/en-us/powershell/" target="_blank"><img style="margin: 10px; height:70px;" src="https://profilinator.rishav.dev/skills-assets/powershell.png" alt="PowerShell" /></a>  
+      </div>
+    </td>
+  </tr>
+</table>
 
 ## Connect with me 
 
