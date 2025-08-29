@@ -1,42 +1,29 @@
-```dart
+```julia
+# 🌟 Welcome to My Profile 🌟
 
-// 🌟 Welcome to My Profile 🌟
+module AboutMe
 
-class AboutMe {
-  String name = "Kosuri Indu";
-  List<String> languages = ["hin_IN", "eng_US", "tel_IN", "kor_KR"];
-  String learning = "AI";
-  Map<String, dynamic> degree = {
-    "course": "B.Tech in Computer Science(AIML)",
-    "ongoing": true,
-  };
+name = "Kosuri Indu"
 
-  void sayHi() {
-  print("🙏 namaste! I'm $name. nice to have you visit my profile!");
-  }
-  
-  void getFutureGoal() {
-    print("to explore life while finding my passion.");
-  }
-  
-  void funFact() {
-    print("i enjoy good humor, even if I'm not the funniest!");
-  }
-}
+traits = [
+    "figuring out",
+    "hustler",
+    "entrepreneurial mindset",
+    "learning ability",
+    "can learn anything",
+    "very driven",
+    "love exploring"
+]
 
+end
 ```
-# Google Summer Of Code 2025 
+# Open-Source  
 
-<img width="800" alt="gsoc-2025" src="https://github.com/user-attachments/assets/773ea0c0-b55e-4032-98a2-f927e087818e" />
-
-## GirlScript Summer of Code 2024 & Hacktoberfest 2023
-
-<p align="center">
-  <img width="400" alt="gssoc-2024" src="https://github.com/user-attachments/assets/728910fd-fce8-4e59-9d40-6cfa89e1e0b0" />
-  <a href="https://holopin.io/@kosuriindu">
-    <img width="400" alt="hacktoberfest-2023" src="https://holopin.me/kosuriindu" />
-  </a>
-</p>
+| Program | Badge/Certificate |
+|---------|-------------------|
+| **Google Summer of Code 2025** | <img width="250" alt="gsoc-2025" src="https://github.com/user-attachments/assets/773ea0c0-b55e-4032-98a2-f927e087818e" /> |
+| **GirlScript Summer of Code 2024** | <img width="250" alt="gssoc-2024" src="https://github.com/user-attachments/assets/728910fd-fce8-4e59-9d40-6cfa89e1e0b0" /> |
+| **Hacktoberfest 2023** | <a href="https://holopin.io/@kosuriindu"><img width="250" alt="hacktoberfest-2023" src="https://holopin.me/kosuriindu" /></a> |
 
 ## Connect with me 
 
